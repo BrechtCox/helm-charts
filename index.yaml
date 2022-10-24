@@ -3,6 +3,16 @@ entries:
   simplewebservice:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-10-24T09:34:15.147622172Z"
+    description: A Helm chart for Kubernetes
+    digest: d33fd194fd65e94893e762e6c40b27f192700f108b22b4defae98cc1c18d809f
+    name: simplewebservice
+    type: application
+    urls:
+    - https://github.com/BrechtCox/helm-charts/releases/download/simplewebservice-0.1.3/simplewebservice-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-10-24T09:26:56.306301324Z"
     description: A Helm chart for Kubernetes
     digest: 8b3328f9759917904473f7b6b3ff43e5a295632ec889e3f57565143584ee3c66
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/BrechtCox/helm-charts/releases/download/simplewebservice-0.1.0/simplewebservice-0.1.0.tgz
     version: 0.1.0
-generated: "2022-10-24T09:26:56.306304924Z"
+generated: "2022-10-24T09:34:15.147631472Z"
